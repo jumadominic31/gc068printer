@@ -1,0 +1,10 @@
+
+<resources>
+
+    <string name="TransactionType1">&quot;HDX-PT95-CUT-955.bin&quot;</string>
+    <string name="TransactionType2">&quot;HDX-PT95-CUT-953.bin&quot;</string>
+  	 <string name="TransactionType3">&quot;HDX-PT95-LP-958.bin&quot;</string>
+  	 	 <string name="TransactionType4">&quot;HDX-PT95-LP-956.bin&quot;</string>
+  	 	 
+ </resources>
+ 

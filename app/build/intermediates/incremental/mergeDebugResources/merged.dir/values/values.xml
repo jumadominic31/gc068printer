@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="baudrates_name">
+        <item>50</item>
+        <item>75</item>
+        <item>110</item>
+        <item>134</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>1800</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>500000</item>
+        <item>576000</item>
+        <item>921600</item>
+        <item>1000000</item>
+        <item>1152000</item>
+        <item>1500000</item>
+        <item>2000000</item>
+        <item>2500000</item>
+        <item>3000000</item>
+        <item>3500000</item>
+        <item>4000000</item>
+    </string-array>
+    <string-array name="baudrates_value">
+        <item>50</item>
+        <item>75</item>
+        <item>110</item>
+        <item>134</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>1800</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>500000</item>
+        <item>576000</item>
+        <item>921600</item>
+        <item>1000000</item>
+        <item>1152000</item>
+        <item>1500000</item>
+        <item>2000000</item>
+        <item>2500000</item>
+        <item>3000000</item>
+        <item>3500000</item>
+        <item>4000000</item>
+    </string-array>
+    <string-array name="language">
+	<item>"U.S.          "</item> 
+	<item>"the French    "</item>
+	<item>"German        "</item>
+	<item>"British       "</item>
+	<item>"I Denmark     "</item>
+	<item>"the Swedish   "</item>
+	<item>"Italian       "</item>
+	<item>"Spain  I      "</item>
+	<item>"Japan         "</item>
+	<item>"Norway        "</item>
+	<item>"the Danish II "</item>
+	<item>"the Spanish II"</item>
+	<item>"Latin America "</item>
+	<item>"south Korean  "</item>
+	<item>"slovenija/crow emperor"</item>
+	<item>"Chinese"</item>
+	</string-array>
+    <item name="crash_reporting_present" type="id"/>
+    <integer name="google_play_services_version">10084000</integer>
+    <string name="CharDemo">"Char Demo"</string>
+    <string name="CodeDemo">"Code Demo"  </string>
+    <string name="CurrentLanguageis"> "Current Printer Language Is :" </string>
+    <string name="Determine">"OK"</string>
+    <string name="FastPrintTest">"Fast Print Test" </string>
+    <string name="GetVersion">"Get Version" </string>
+    <string name="HavePaper"> "The printer has a paper" </string>
+    <string name="ImageDemo">"Image Demo" </string>
+    <string name="IsOutOfPaper"> "The printer is out of paper" </string>
+    <string name="PrinterNotNormal1"> "The printer is too hot" </string>
+    <string name="TransactionType1">"HDX-PT95-CUT-955.bin"</string>
+    <string name="TransactionType2">"HDX-PT95-CUT-953.bin"</string>
+    <string name="TransactionType3">"HDX-PT95-LP-958.bin"</string>
+    <string name="TransactionType4">"HDX-PT95-LP-956.bin"</string>
+    <string name="UpdateFWWarn">"warning: the version chosen is old"</string>
+    <string name="UpdateFontLib">"Update Font Lib" </string>
+    <string name="UpdateVersion">"Update Version" </string>
+    <string name="WarningTimeIsLong">"Updating Font Lib will Take about 6 minutes" </string>
+    <string name="ZiKuFile1">"PT-ziku-20160602.bin"</string>
+    <string name="appName">"Serail Port Console"</string>
+    <string name="app_name">File Explore</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="currentFWV"> "Current firmware version :" </string>
+    <string name="default_web_client_id" translatable="false">1078113814857-es6rkegj8bvqq7io030n3dfmd2klv09t.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://android-serialport-api.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1078113814857</string>
+    <string name="getV"> "get version" </string>
+    <string name="google_api_key" translatable="false">AIzaSyDvjbsjI6Gl1QTOEre0ulNwDLu66LyezEQ</string>
+    <string name="google_app_id" translatable="false">1:1078113814857:android:d30a2793bbbd594e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvjbsjI6Gl1QTOEre0ulNwDLu66LyezEQ</string>
+    <string name="google_storage_bucket" translatable="false">android-serialport-api.appspot.com</string>
+    <string name="hello">Hello World,  FileExplorer!</string>
+    <string name="itpw">              Updating Firmware......</string>
+    <string name="itpw2">              Updating Font lib......</string>
+    <string name="itpw3">              getting the priner information......</string>
+    <string name="itpw4">              "have updated Font lib "</string>
+    <string name="previousFWV"> "Previous firmware version :" </string>
+    <string name="quit">"Quit" </string>
+    <string name="selectFW">"Select FirmWare File"</string>
+    <string name="updateFWFinish">"update firmware finish"</string>
+</resources>

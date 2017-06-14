@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Avanet\\AVTTMS\\Android app\\DOD\\Aventbus\\GC068Printer_Var\\app\\build\\intermediates\\res\\merged\\debug\\xml\\serial_port_preferences.xml",
+        "source": "E:\\Avanet\\AVTTMS\\Android app\\DOD\\Aventbus\\GC068Printer_Var\\app\\src\\main\\res\\xml\\serial_port_preferences.xml"
+    },
+    {
+        "merged": "E:\\Avanet\\AVTTMS\\Nuclear\\GC068Printer_Var\\app\\build\\intermediates\\res\\merged\\debug\\xml\\serial_port_preferences.xml",
+        "source": "E:\\Avanet\\AVTTMS\\Nuclear\\GC068Printer_Var\\app\\src\\main\\res\\xml\\serial_port_preferences.xml"
+    }
+]

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_07f28a193c94ab2b44df08edad3b35f05c48d41f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_8bc07cf08921f048412b179c927a3d9e5c5acfcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_519f009791a24142698f4bd19309ae60c56e287d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\lib\hdxutil.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4962ee008b97dd224223a2e2082d958bb9d90e96">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\hdxutil_e23a64d42a2cf34f261b71880b05cbc3498cf223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_fcfc636125bdc5f5afad3852fb5a3d35e124703e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\lib\hdxutil.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4962ee008b97dd224223a2e2082d958bb9d90e96">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\hdxutil_49496cdb9c669d79715da5d7102b8a42416c6b6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_77f6e36b102a76cfc6318af1776a45cf6746ad14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a652e6a5cad8d6ce5743cccdb6387d9f33e2332e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_6b40358f2d80441f47c6198b7381dc654002074f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_be9e20d66d3d97e656220e46bd8c2b1c17b93a3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_cd6d7c85fe4ca4a15db356b61de47eec8bf936c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_2909e3ab86147fb443022f9349de012fbe175670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_e8a7bf6cc686518323cc931574ed8121bd08507c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_00c4f898f872aa7cbeb50dcaa8c628005888023c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_e521723aa17c76db34fc1d0378637353bbc4e50a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_44bdc7304aa4a3b3a8d27474a02edb3bfd7b3682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_2e711d1e77c236192478657ca40908018c2c2add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_5186985dd6ac4a8e21a77d1fc3a9d9f70ccda70c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_e19b9119818af620871739cf59476242385c443f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_3e2cfdcbdcb3519e82152b4322cbd542c3f3ded9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_07f28a193c94ab2b44df08edad3b35f05c48d41f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_36a80f230a27255f6c261c672b1460dbf41933a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_fcfc636125bdc5f5afad3852fb5a3d35e124703e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\lib\hdxutil.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4962ee008b97dd224223a2e2082d958bb9d90e96">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\hdxutil_e23a64d42a2cf34f261b71880b05cbc3498cf223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Probook6550b\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_fabbfa04df929133f70de3d90d056673ff3a190e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_8bc07cf08921f048412b179c927a3d9e5c5acfcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_052b87b3fa77d60dac8f88833513b0c0a0676463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_df027866b244f3774c718b2c6947f1cedd1add5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\lib\hdxutil.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4962ee008b97dd224223a2e2082d958bb9d90e96">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\hdxutil_49496cdb9c669d79715da5d7102b8a42416c6b6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_068303cf190684a4f51d55c390de367cb12c4f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_be9e20d66d3d97e656220e46bd8c2b1c17b93a3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_2e711d1e77c236192478657ca40908018c2c2add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_c7c31ed4d49fd47c566c97dc112372b76dbc6bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_6b40358f2d80441f47c6198b7381dc654002074f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_4792f58348d696a026335ec1882970154fcaccdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_2909e3ab86147fb443022f9349de012fbe175670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_cd6d7c85fe4ca4a15db356b61de47eec8bf936c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a652e6a5cad8d6ce5743cccdb6387d9f33e2332e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_77f6e36b102a76cfc6318af1776a45cf6746ad14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_e8a7bf6cc686518323cc931574ed8121bd08507c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_281ccf69fc5dc8972ec2fe3289346e95fcead32f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_3e2cfdcbdcb3519e82152b4322cbd542c3f3ded9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_44bdc7304aa4a3b3a8d27474a02edb3bfd7b3682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_c5d04518df0793c342760cb3a8abb8eca642ed58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_068303cf190684a4f51d55c390de367cb12c4f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_e19b9119818af620871739cf59476242385c443f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Probook6550b\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_fabbfa04df929133f70de3d90d056673ff3a190e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_5186985dd6ac4a8e21a77d1fc3a9d9f70ccda70c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Avanet\AVTTMS\Android app\DOD\Aventbus\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_00c4f898f872aa7cbeb50dcaa8c628005888023c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Avanet\SerialPrinterQuck1\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_36a80f230a27255f6c261c672b1460dbf41933a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_9cfeb4caba186803f7fd6e8a293c5285d437e5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\lib\hdxutil.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4962ee008b97dd224223a2e2082d958bb9d90e96">
+        <dex dex="E:\Avanet\AVTTMS\Nuclear\GC068Printer_Var\app\build\intermediates\pre-dexed\debug\hdxutil_858eeaa7aa094220dc91f76bed723b78b13bf30d.jar" />
+    </item>
+
+</items>

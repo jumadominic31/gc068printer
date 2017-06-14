@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hdxutil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/lib/hdxutil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

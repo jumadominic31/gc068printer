@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078113814857",
+    "firebase_url": "https://android-serialport-api.firebaseio.com",
+    "project_id": "android-serialport-api",
+    "storage_bucket": "android-serialport-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078113814857:android:d30a2793bbbd594e",
+        "android_client_info": {
+          "package_name": "android_serialport_api.sample3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078113814857-es6rkegj8bvqq7io030n3dfmd2klv09t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjbsjI6Gl1QTOEre0ulNwDLu66LyezEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
