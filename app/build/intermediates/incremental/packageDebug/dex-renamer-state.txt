@@ -1,4 +1,4 @@
-#Wed Jun 14 23:30:53 EAT 2017
+#Sun Jul 02 19:43:12 EAT 2017
 base.0=E\:\\Avanet\\AVTTMS\\Nuclear\\GC068Printer_Var\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=E\:\\Avanet\\AVTTMS\\Nuclear\\GC068Printer_Var\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

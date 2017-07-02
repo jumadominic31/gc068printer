@@ -1796,6 +1796,91 @@ public class ConsoleActivity extends SerialPortActivity {
 			SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 			String formattedDate = df.format(c.getTime());
 			try {
+				if ("fuelstdailysumm".equals(func)){
+					String companyname	= " "+b.getString("companyname");
+					String companyaddr 	= " "+b.getString("companyaddr");
+					String saleheading	= " SALES DAILY SUMMARY";
+					String separator	= " ---------------------";
+					String sales		= " Sales";
+					String volume		= " Fuel Volume";
+					String username		= " Fuel Attendant:"+b.getString("username");
+					String station		= " Station     :" 	+b.getString("station");
+					String summ_amt		= " Total Sales :"	+b.getString("summ_amt");
+					String summ_cash	= " Cash Sales  :"	+b.getString("summ_cash");
+					String summ_mpesa	= " Mpesa Sales :"	+b.getString("summ_mpesa");
+					String summ_volume	= " Total Vol(l):"	+b.getString("summ_volume");
+					String summ_petrol	= " Petrol Vol  :"	+b.getString("summ_petrol");
+					String summ_diesel	= " Diesel Vol  :"	+b.getString("summ_diesel");
+
+					mOutputStream.write(companyname.getBytes());sendCommand(0x0a);
+					mOutputStream.write("P.O. Box 69483-00400 ".getBytes());sendCommand(0x0a);
+					mOutputStream.write(companyaddr.getBytes());sendCommand(0x0a);
+					String d = " "+formattedDate;
+					sendCommand(0x0a);
+					sendCommand(0x1b, 0x61, 0);
+					mOutputStream.write(saleheading.getBytes());sendCommand(0x0a);
+					mOutputStream.write(d.getBytes());sendCommand(0x0a);
+					sendCommand(0x0a);
+					mOutputStream.write(username.getBytes());sendCommand(0x0a);
+					mOutputStream.write(station.getBytes());sendCommand(0x0a);
+					mOutputStream.write(separator.getBytes());sendCommand(0x0a);
+					mOutputStream.write(sales.getBytes());sendCommand(0x0a);
+					mOutputStream.write(separator.getBytes());sendCommand(0x0a);
+					mOutputStream.write(summ_amt.getBytes());sendCommand(0x0a);
+					mOutputStream.write(summ_cash.getBytes());sendCommand(0x0a);
+					mOutputStream.write(summ_mpesa.getBytes());sendCommand(0x0a);
+					mOutputStream.write(separator.getBytes());sendCommand(0x0a);
+					mOutputStream.write(volume.getBytes());sendCommand(0x0a);
+					mOutputStream.write(separator.getBytes());sendCommand(0x0a);
+					mOutputStream.write(summ_volume.getBytes());sendCommand(0x0a);
+					mOutputStream.write(summ_petrol.getBytes());sendCommand(0x0a);
+					mOutputStream.write(summ_diesel.getBytes());sendCommand(0x0a);
+					sendCommand(0x0a);
+					mOutputStream.write("  Terms and Conditions apply ".getBytes());sendCommand(0x0a);
+					sendCommand(0x0a);
+					mOutputStream.write(" info@nuclearinvestments.com".getBytes());sendCommand(0x0a);
+					sendCommand(0x0a);
+					sendCommand(0x0a);
+				}
+
+				if ("fuelstsale".equals(func)){
+					String companyname	= " "+b.getString("companyname");
+					String companyaddr 	= " "+b.getString("companyaddr");
+					String saleheading	= " SALE RECEIPT";
+					String station		= " Station      : " +b.getString("station");
+					String receipt		= " Receipt#     : " +b.getString("receipt");
+					String vehregno		= " Vehicle Reg# : " +b.getString("vehregno");
+					String amount		= " Sale amount  : " +b.getString("amount");
+					String volume		= " Volume (l)   : " +b.getString("volume");
+					String ftype 		= " Fuel type    : " +b.getString("ftype");
+					String pmethod		= " Payment mthd : " +b.getString("pmethod");
+					String username 	= " Served by    : " +b.getString("username");
+
+					mOutputStream.write(companyname.getBytes());sendCommand(0x0a);
+					mOutputStream.write("P.O. Box 69483-00400 ".getBytes());sendCommand(0x0a);
+					mOutputStream.write(companyaddr.getBytes());sendCommand(0x0a);
+					String d = " "+formattedDate;
+					sendCommand(0x0a);
+					sendCommand(0x1b, 0x61, 0);
+					mOutputStream.write(saleheading.getBytes());sendCommand(0x0a);
+					mOutputStream.write(d.getBytes());sendCommand(0x0a);
+					sendCommand(0x0a);
+					mOutputStream.write(station.getBytes());sendCommand(0x0a);
+					mOutputStream.write(receipt.getBytes());sendCommand(0x0a);
+					mOutputStream.write(vehregno.getBytes());sendCommand(0x0a);
+					mOutputStream.write(amount.getBytes());sendCommand(0x0a);
+					mOutputStream.write(volume.getBytes());sendCommand(0x0a);
+					mOutputStream.write(ftype.getBytes());sendCommand(0x0a);
+					mOutputStream.write(pmethod.getBytes());sendCommand(0x0a);
+					sendCommand(0x0a);
+					mOutputStream.write(username.getBytes());sendCommand(0x0a);
+					sendCommand(0x0a);
+					mOutputStream.write("  Terms and Conditions apply ".getBytes());sendCommand(0x0a);
+					sendCommand(0x0a);
+					mOutputStream.write(" info@nuclearinvestments.com".getBytes());sendCommand(0x0a);
+					sendCommand(0x0a);
+					sendCommand(0x0a);
+				}
 				if ("sum".equals(func)) {
 					String cname 	= "   "+b.getString("busname");
 					String caddress = "  "+b.getString("busaddress");
@@ -1824,6 +1909,7 @@ public class ConsoleActivity extends SerialPortActivity {
 					String total       = " Fare        : "+b.getString("total");
 					String agent       = " Booked by   : "+b.getString("agent");
 					mOutputStream.write(cname.getBytes());sendCommand(0x0a);
+					mOutputStream.write("P.O.Box 69483-00400 ".getBytes());sendCommand(0x0a);
 					mOutputStream.write(caddress.getBytes());sendCommand(0x0a);
 					sendCommand(0x0a);
 					String d = " "+formattedDate;
@@ -1843,8 +1929,8 @@ public class ConsoleActivity extends SerialPortActivity {
 					mOutputStream.write(agent.getBytes());sendCommand(0x0a);
 					sendCommand(0x0a);
 					mOutputStream.write("  Terms and Conditions apply ".getBytes());sendCommand(0x0a);
-					mOutputStream.write("       Powered by AVTTMS ".getBytes());sendCommand(0x0a);
-					mOutputStream.write("     info@avanettech.co.ke".getBytes());sendCommand(0x0a);
+					mOutputStream.write("       Not transferable ".getBytes());sendCommand(0x0a);
+					mOutputStream.write(" info@nuclearinvestments.com".getBytes());sendCommand(0x0a);
 					sendCommand(0x0a);
 					sendCommand(0x0a);
 				}
@@ -1856,6 +1942,7 @@ public class ConsoleActivity extends SerialPortActivity {
 					String tfc   =" Collection :"+b.getString("tfc");
 
 					mOutputStream.write(cname.getBytes());sendCommand(0x0a);
+					mOutputStream.write("P.O.Box 69483-00400 ".getBytes());sendCommand(0x0a);
 					mOutputStream.write(caddress.getBytes());sendCommand(0x0a);
 					sendCommand(0x0a);
 					String d = " "+formattedDate;
@@ -1867,7 +1954,7 @@ public class ConsoleActivity extends SerialPortActivity {
 					sendCommand(0x0a);
 					mOutputStream.write("  Terms and Conditions apply ".getBytes());sendCommand(0x0a);
 					mOutputStream.write("     Powered by AVTTMS ".getBytes());sendCommand(0x0a);
-					mOutputStream.write("   info@avanettech.co.ke".getBytes());sendCommand(0x0a);
+					mOutputStream.write(" info@nuclearinvestments.com".getBytes());sendCommand(0x0a);
 					sendCommand(0x0a);
 					sendCommand(0x0a);
 				}
@@ -1892,6 +1979,7 @@ public class ConsoleActivity extends SerialPortActivity {
 					String netamt		= " Net amount      : "+b.getString("netamt");
 					String agentname	= " Delivery by : "+b.getString("agentname");
 					mOutputStream.write(cname.getBytes());sendCommand(0x0a);
+					mOutputStream.write("P.O. Box 69483-00400 ".getBytes());sendCommand(0x0a);
 					mOutputStream.write(caddress.getBytes());sendCommand(0x0a);
 					String d = " "+formattedDate;
                     sendCommand(0x0a);
@@ -1921,8 +2009,8 @@ public class ConsoleActivity extends SerialPortActivity {
 					mOutputStream.write(agentname.getBytes());sendCommand(0x0a);
 					sendCommand(0x0a);
 					mOutputStream.write("  Terms and Conditions apply ".getBytes());sendCommand(0x0a);
-					mOutputStream.write("       Powered by AVTTMS ".getBytes());sendCommand(0x0a);
-					mOutputStream.write("     info@avanettech.co.ke".getBytes());sendCommand(0x0a);
+					sendCommand(0x0a);
+					mOutputStream.write(" info@nuclearinvestments.com".getBytes());sendCommand(0x0a);
 					sendCommand(0x0a);
 					sendCommand(0x0a);
 				}
